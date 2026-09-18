@@ -1,0 +1,13 @@
+{
+  "name": "ai-usage-realtime",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Experimental dashboard proving reliable acquisition of Codex and Claude Code usage/quota data.",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
